@@ -1,0 +1,28 @@
+body {
+  background-color:#EAF6F6;
+ }
+
+hr {
+  background-color: none;
+  border-style:  none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 5%;
+ }
+h3 {
+  color: #66BFBF;
+}
+h1 {
+  color: #66BFBF;
+}
+th {
+  background-color:green;
+  font-size: 18px;
+  color: white;
+  font-variant-caps: petite-caps;
+}
+td:hover {
+  background-color: #f6eec7;
+}
